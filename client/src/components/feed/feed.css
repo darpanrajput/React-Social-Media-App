@@ -1,0 +1,16 @@
+.feed {
+  /* background-color: cyan; */
+  background-color: #18191a;
+
+  flex: 5.5;
+}
+
+.feedWrapper {
+  padding: 20px;
+  color: white;
+}
+
+.shareInput {
+  background-color: #18191a;
+  color: #f1f1f1;
+}

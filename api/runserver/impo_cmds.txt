@@ -1,0 +1,3 @@
+to the sever use-> npm run server as the nodeomon in  script tag in package.json
+to run socket server->npm start
+to run react app->npm start
